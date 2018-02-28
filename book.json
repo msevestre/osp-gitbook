@@ -1,9 +1,13 @@
 {
-  "plugins": ["edit-link"],
+  "plugins": [
+    "edit-link",
+    "collapsible-chapters"
+  ],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/bocasfx/osp-gitbook/tree/edit",
       "label": "Edit This Page"
-    }
+    },
+    "collapsible-chapters": {}
   }
 }
