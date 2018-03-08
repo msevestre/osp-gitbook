@@ -5,7 +5,7 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/msevestre/osp-gitbook/tree/edit",
+      "base": "https://github.com/msevestre/osp-gitbook/master/edit",
       "label": "Edit This Page"
     },
     "collapsible-chapters": {}
